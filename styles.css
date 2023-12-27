@@ -8,4 +8,11 @@ main {
 p {
     background-color:black;
     color:ghostwhite;
+}
+i {
+    color:ghostwhite;
 } 
+footer.fa{
+    background-color:midnightblue;
+    color:ghostwhite;
+}
